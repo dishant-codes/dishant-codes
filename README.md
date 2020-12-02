@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Frontend Web Development with JS Frameworks
 - 💬 Ask me about JavaScript or any tech related stuff
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spand 8 hours listening songs while working on my programming skills everyday. 
+- ⚡ Fun fact: I spand 8 hours listening songs everyday while working on my programming skills. 
 
 
 
