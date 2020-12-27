@@ -1,4 +1,4 @@
-### Hola, I'm Dishant Aarak!👋
+### Hello👋, I'm Dishant Aarak!
 
 - 🌱 I’m currently learning Frontend Web Development with JS Frameworks
 - 💬 Ask me about JavaScript or any tech related stuff
