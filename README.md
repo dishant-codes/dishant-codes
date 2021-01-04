@@ -1,13 +1,13 @@
 ### Hello👋, I'm Dishant Aarak!
 
-- 🌱 I’m currently learning Frontend Web Development with JS Frameworks
+- 🌱 I’m currently learning Frontend Web Development
 - 💬 Ask me about JavaScript or any tech related stuff
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spand 8 hours listening songs everyday while working on my programming skills. 
+
+- ⚡ Fun fact: I spend 6 hours on my coding skills but never tired. 
 
 
 
-### How to reach me:
+### Reach me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
