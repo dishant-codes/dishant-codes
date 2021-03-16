@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning Frontend Web Development
 - 💬 Ask me about JavaScript or any tech related stuff
-- 😄 Pronounce: he/him
-- ⚡ Fun fact: I spend 6 hours on my coding skills but never tired. 
+- ⚡ Fun fact: I can develop and design project self. 
 
 
 
