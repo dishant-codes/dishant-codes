@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Frontend Web Development
 - 💬 Ask me about JavaScript or any tech related stuff
-- ⚡ Fun fact: I can develop and design project self. 
+- ⚡ Fun fact: I can develop and design projects self. 
 
 
 
