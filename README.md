@@ -1,3 +1,5 @@
+
+<img align="right" width="300px" src="coder.png" />
 ### Hello👋, I'm Dishant Aarak!
 
 - 🌱 I’m currently learning Frontend Web Development
