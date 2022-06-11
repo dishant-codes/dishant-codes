@@ -4,7 +4,8 @@
 ### Hello👋, I'm Dishant Aarak!
 
 - 🌱 I’m currently learning Frontend Web Development
-- 💬 Ask me about JavaScript or any tech related stuff
+- 💬 Any doubt or queries DM me on instagram 
+[@mr_dishant001](https://www.instagram.com/mr_dishant001/)
 - ⚡ Fun fact: I can develop and design any project self. 
 
 
@@ -28,7 +29,6 @@
 
 
 
-[twitter]: https://twitter.com/arakdishant/
 [instagram]: https://www.instagram.com/mr_dishant001/
 [linkedin]: https://www.linkedin.com/in/dishant-arak-3249a1171/
 [facebook]: https://www.facebook.com/Dishant.aarak/
