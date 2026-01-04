@@ -1,34 +1,87 @@
+<img align="right" alt="Coding" src="code.gif" width="300" />
 
-<img align="right" alt="GIF" src="code.gif" width="300" />
+## Hello, I’m Dishant Aarak 👋  
+**Full Stack Development Instructor | Software Engineer | Tech Mentor**
 
-### Hello👋, I'm Dishant Aarak!
+I am a passionate **Full Stack Development (FSD) Instructor at upGrad Education**, with strong industry and teaching experience. I specialize in designing, building, and explaining real-world web and mobile applications with clarity and practical depth.
 
-- 🌱 I’m currently learning Frontend Web Development
-- 💬 Any doubt or queries DM me on instagram 
-[@mr_dishant001](https://www.instagram.com/mr_dishant001/)
-- ⚡ Fun fact: I can develop and design any project self. 
+I enjoy mentoring learners, simplifying complex concepts, and working across multiple technology stacks.
 
+---
 
-### 👨‍💻Technical Skills:
+### 👨‍🏫 Current Role
+- **Full Stack Development Instructor – upGrad Education**
+- Teaching MERN / MEAN / LAMP stack concepts with real-world project exposure
+- Guiding learners on frontend, backend, APIs, databases, and deployment
+- Interview preparation, system thinking, and hands-on coding mentorship
 
-![](https://img.shields.io/badge/Code-React--Native-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&color=00FF00)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=E34F26)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=E34F26)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=E34F26)
+---
 
-<br />
+### 💼 Professional Summary
+- Full Stack Developer with strong frontend and backend expertise  
+- Experience in **web, mobile, and API-based application development**  
+- Comfortable working across **multiple stacks and architectures**  
+- Exposure to **Data Analytics tools** and **Generative AI concepts**  
+- Strong problem-solving and communication skills  
 
+---
 
-### My Stats:
+### 🛠️ Technical Skills
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dishant-codes&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/><br/><br/>
+#### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Context API
+- React Native
+- Responsive UI & modern design practices
 
+#### Backend
+- Node.js, Express.js
+- Java (Spring Boot – fundamentals)
+- PHP (CRUD & MySQL integration)
+- RESTful API design
 
+#### Databases
+- MySQL
+- MongoDB
 
-[instagram]: https://www.instagram.com/mr_dishant001/
-[linkedin]: https://www.linkedin.com/in/dishant-arak-3249a1171/
-[facebook]: https://www.facebook.com/Dishant.aarak/
+#### Data Analytics & Tools
+- Advanced MS Excel
+- Data cleaning & basic analysis
+- Dashboard concepts & reporting
+
+#### GenAI & AI Tools
+- AI-assisted development workflows
+- Prompt engineering basics
+- Using GenAI tools for faster development & learning
+
+#### Other Skills
+- Git & GitHub
+- Android Development (Basics)
+- Software Architecture fundamentals
+- Teaching, mentoring & documentation
+
+---
+
+### ⚡ Key Strengths
+- Can **design, develop, and deploy projects independently**
+- Strong at converting **theory into practical implementation**
+- Learner-focused teaching with industry alignment
+- Comfortable with both **coding and explaining concepts clearly**
+
+---
+
+### 📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dishant-codes&show_icons=true&theme=radical" />
+<br/><br/><br/><br/><br/>
+
+---
+
+### 🌐 Connect With Me
+- **Instagram:** [@mr_dishant001](https://www.instagram.com/mr_dishant001/)
+- **LinkedIn:** https://www.linkedin.com/in/dishant-arak-3249a1171/
+- **Facebook:** https://www.facebook.com/Dishant.aarak/
+
+---
+
+⭐ *Open to collaboration, teaching opportunities, and meaningful tech projects.*
